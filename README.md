@@ -1,6 +1,6 @@
 # Getting Started
 
-This test was created by Solomon Ayodele for the Carrot Institution Frontend Application Test.
+This test was created by Solomon Ayodele for the Carrot Institute Frontend Application Test.
 
 ## Available Scripts
 
