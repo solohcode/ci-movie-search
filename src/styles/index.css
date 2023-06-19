@@ -1,0 +1,16 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.home_top{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.7)), url(../images/movie-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ff_prism{
+  font-family: 'Tilt Prism', cursive;
+}
+
