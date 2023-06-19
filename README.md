@@ -4,11 +4,15 @@ This test was created by Solomon Ayodele for the Carrot Institution Frontend App
 
 ## Available Scripts
 
-After cloning this app install npm by running
+After cloning this app you will need node to run the app, install node on a local system to which comes with npm and other commands.
+
+After that navigate to this project directory from any command prompt, install npm by running
 
 ### `npm install`
 
-In the project directory, you can run:
+It'll download every necessary packages and dependencies for the project to run
+
+After which you can run:
 
 ### `npm start`
 
